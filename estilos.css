@@ -1,0 +1,17 @@
+div{
+    width: 300px;
+    border: 8px solid dodgerblue;
+    padding: 15px;
+    margin: 20px;
+    font-size: large;
+}
+img{
+    width: 280px;
+    height: 280px;
+    border: 5px dashed darkgreen;
+}
+p + h3{
+    padding: 10px;
+    border: 5px solid lightgreen;
+
+}
