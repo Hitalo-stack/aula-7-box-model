@@ -1,0 +1,30 @@
+#russia{
+    background-image: url("russia.jpg");
+    background-size: contain;
+    width: 300px;
+    height: 180px;
+    border: 2px solid;
+    margin: 20px;
+    font-size: large;
+    padding-left: 2px;
+}
+#canada{
+    background-image: url("canada.jpg");
+    background-size: contain;
+    width: 300px;
+    height: 180px;
+    border: 2px solid;
+    margin: 20px;
+    font-size: large;
+    padding-left: 2px;
+}
+#china{
+    background-image: url("china.jpg");
+    background-size: contain;
+    width: 300px;
+    height: 180px;
+    border: 2px solid;
+    margin: 20px;
+    font-size: large;
+    padding-left: 2px;
+}
